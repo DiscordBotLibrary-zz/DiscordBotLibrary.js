@@ -54,6 +54,5 @@ dbl.create_command('ping', function(message){
 Finally, you need to find you token at the [Discord Developers Website](https://discord.com/developers/applications/me), and write this piece of code. Replace, "YOUR_TOKEN_HERE", with the token you find on the website.
 ```javascript
 dbl.run(YOUR_TOKEN_HERE)
-
-Then finally run your script, and you should have your bot come alive in Discord and when you write !ping in chat it will respond with pong.
 ```
+Then finally run your script, and you should have your bot come alive in Discord and when you write !ping in chat it will respond with pong.
